@@ -21,6 +21,17 @@
 
 ---
 
+# Important Docs
+
+[Project Link](https://promact-internship.slack.com/files/U08BN2NVCQ1/F08H17P3X99/applicant_tracking_system__ats__platform__1_.docx?origin_team=T01LGU67B8V&origin_channel=C08GJGYCZUP)
+
+---
+
+# Important Dates
+
+- **12-03-2025**: Final date to resolve queries
+- **15-03-2025**: Week 1 Deliverables Submission
+
 # Detail Plan for Week 1
 
 ### **Steps to Complete Week 1 (Project Setup & UI/UX Prototyping)**
@@ -88,19 +99,6 @@
 - Use **Python (FastAPI/Flask)** to create an endpoint for parsing resumes.
 - Load sample resumes and extract **Name, Email, Skills, Experience**.
 - Test initial results with dummy data.
-
----
-
-# Important Docs
-
-[Project Link](https://promact-internship.slack.com/files/U08BN2NVCQ1/F08H17P3X99/applicant_tracking_system__ats__platform__1_.docx?origin_team=T01LGU67B8V&origin_channel=C08GJGYCZUP)
-
----
-
-# Important Dates
-
-- **12-03-2025**: Final date to resolve queries
-- **15-03-2025**: Week 1 Deliverables Submission
 
 ---
 
