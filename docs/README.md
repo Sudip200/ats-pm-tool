@@ -32,7 +32,7 @@
 # Important Dates
 
 - **12-03-2025**: Final date to resolve queries
-- **15-03-2025**: Week 1 Deliverables Submission
+- **13-03-2025**: SRS document submission
 
 # Detail Plan for Week 1
 
