@@ -18,6 +18,8 @@
 | Sanjana Shaw      | Gathering doubts to ask | Pending | Gathering doubts to ask | 12-03-25 |
 | Vinay Danidhariya | Gathering doubts to ask | Pending | Gathering doubts to ask | 12-03-25 |
 | Sudipto Das       | Gathering doubts to ask | Pending | Gathering doubts to ask | 12-03-25 |
+| Prashant Sahu     | Gathering doubts to ask | Pending |  Gathering doubts to ask| 12-03-25 |
+| Rishi Shori   | Gathering doubts to ask | Pending |  Gathering doubts to ask| 12-03-25 |
 
 ---
 
@@ -108,6 +110,7 @@ If you have any doubts, please update your respective sections.
 
 ### By Sudipto Das
 
+
 ### By Nainesh Vidja
 
 ### By Nidhi Dhinoja
@@ -119,5 +122,8 @@ If you have any doubts, please update your respective sections.
 ### By Sanjana Shaw
 
 ### By Vinay Danidhariya
+
+### By  Prashant Sahu 
+
 
 ---
